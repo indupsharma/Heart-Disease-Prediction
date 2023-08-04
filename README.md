@@ -7,6 +7,7 @@ Project has the below mentioned files
   2. Code worked on
   3. CSV data file
   4. tableau visualizations
+
 The team had chosen this topic to focus on below area
       Heart Disease and attacks are among the most prominent health issues in the United States. According to the CDC [1], the highest cases of death is due to heart disease in the United States. The United States observes one death every 34 seconds on the account of a ‘cardiovascular disease’. In 2020, according to the statistics, one out of every 5 deaths happening was due to heart disease which accounted for nearly 700,000 deaths. Almost 805,000 people had a heart attack in the United States out of which nearly 25% had already had an attack. So, this issue is a critical risk factor and needs attention. The focus is to predict or detect the chance/likelihood of Heart Disease/ Attack using data analytics and machine learning to assist medical workers and the public.
 About Data:
