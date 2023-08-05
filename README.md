@@ -77,5 +77,48 @@ Questions:
 7.	How does the age factor affect the raise of heart attacks in a person?
 8.	Which sex category is mostly affected by heart attacks?
 
-..... in progress
+To answer the above questions the team had worked on the below analysis.
+
+Data Cleaning:
+
+Defination: The process of fixing or removing the incorrect, corrupted, incorrectly formated, duplicate or incomplete data within the dataset[4].
+
+As per the heart.csv file there were no missing values found and the data looked fine. Altough it was found that the data could be normailized which was done post the exploratory data analysis.
+
+Exploratory Data Analysis:
+
+Defination: EDA is used by data scientist to analyse and investigate the data set and summarize their main charteristics, often emoploying data visualization methods. It best manuplicates the data sources to get the answers you need, making it simpler to find patterns, spot the anomalies, test hypothesis and check assumptions [5].
+
+Basic exploration of data was performed using Python to find various statistics of the obtained data. Intiall, distribution of data was taken and parameters which were considered are observed.
+
+<img width="454" alt="EDA" src="https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/8a4d7dc9-03da-4ff5-8eac-6ef1c8c6fffd">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References: 
+
+[1] Heart Disease Facts | cdc.gov. (2022, July 15). Centers for Disease Control and Prevention. Retri eved September 18, 2022, from https://www.cdc.gov/heartdisease/facts.htm 
+[2] UCI Machine Learning Repository: Heart Disease Data Set. (n.d.). Retrieved September 18, 2022, from https://archive.ics.uci.edu/ml/datasets/Heart+Disease 
+[3] Kaggle: Your Home for Data Science. (n.d.). Retrieved September 18, 2022, from https://www.k aggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset+
+[4] “Guide to data cleaning: Definition, benefits, components, and how to clean your data,” Tableau, https://www.tableau.com/learn/articles/what-is-data cleaning#:~:text=tools%20and%20software-,What%20is%20data%20cleaning%3F,to%20be%20duplicated%20or%20mislabeled. (accessed Aug. 5, 2023). 
+[5] What is exploratory data analysis? (no date) IBM. Available at: https://www.ibm.com/topics/exploratory-data-analysis (Accessed: 05 August 2023). 
+
+
 
