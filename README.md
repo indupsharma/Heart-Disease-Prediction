@@ -112,12 +112,17 @@ Basic exploration of data was performed using Python to find various statistics 
 
 
 
+
 References: 
 
 [1] Heart Disease Facts | cdc.gov. (2022, July 15). Centers for Disease Control and Prevention. Retri eved September 18, 2022, from https://www.cdc.gov/heartdisease/facts.htm 
+
 [2] UCI Machine Learning Repository: Heart Disease Data Set. (n.d.). Retrieved September 18, 2022, from https://archive.ics.uci.edu/ml/datasets/Heart+Disease 
+
 [3] Kaggle: Your Home for Data Science. (n.d.). Retrieved September 18, 2022, from https://www.k aggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset+
+
 [4] “Guide to data cleaning: Definition, benefits, components, and how to clean your data,” Tableau, https://www.tableau.com/learn/articles/what-is-data cleaning#:~:text=tools%20and%20software-,What%20is%20data%20cleaning%3F,to%20be%20duplicated%20or%20mislabeled. (accessed Aug. 5, 2023). 
+
 [5] What is exploratory data analysis? (no date) IBM. Available at: https://www.ibm.com/topics/exploratory-data-analysis (Accessed: 05 August 2023). 
 
 
