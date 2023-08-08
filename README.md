@@ -93,8 +93,13 @@ Basic exploration of data was performed using Python to find various statistics 
 
 <img width="454" alt="EDA" src="https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/8a4d7dc9-03da-4ff5-8eac-6ef1c8c6fffd">
 
-The team believed that the heart attack is depended on the factors such as age, sex, cholesterol and heart rate(thalachh).![image](https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/0e10f350-a30e-4ef6-9434-03e7ab58ce32)
+The team believed that the heart attack is depended on the factors such as age, sex, cholesterol and heart rate(thalachh). So, analysis was done on each facotr individually which is as follows:
 
+Based on the analysis performed on the sex and occurrence of attack, it was observed that, males highly suffered cardiac arrest.
+
+<img width="208" alt="image" src="https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/3ade663e-78de-4c1e-9835-4c9e3671c341">
+
+Other important factor that was focused was age. The age was collated into age groups to better understand the results. Post analysis results show that people of age group 60 had dear chances of cardiopulmonary arrest.
 
 
 
