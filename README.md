@@ -111,6 +111,7 @@ It was also observed that the chest pain type (cp = 0) typical angina (chest pai
 
 
   ![image](https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/1b89b757-893b-4ca3-a731-1f669c3646d6)
+
 Left: Heart attack occurance by age and max heart rate; Right: Heart attack by chestpain type
 
 
