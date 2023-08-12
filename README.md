@@ -101,6 +101,16 @@ Based on the analysis performed on the sex and occurrence of attack, it was obse
 
 Other important factor that was focused was age. The age was collated into age groups to better understand the results. Post analysis results show that people of age group 60 had dear chances of cardiopulmonary arrest.
 
+Below graphs shows us the results of the analysis:
+
+<img width="228" alt="image" src="https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/c8962589-2905-4b0c-919b-6699cf186786">
+
+In the next steps the analysis was performed based on the heart rate and the age. As, per the report the occurrence of cardiac arrest is highly probable with increase in the heart rate. Maximum people below the age group of 53 had coronary infractory, on the other hand the age group rangin from 55 to 70 did not show any signs of occurrence. The heart rate of people who had attack ranged to maximum 200, to as low as 100.
+
+It was also observed that the chest pain type (cp = 0) typical angina (chest pain due to excess physical and emotional stress) was one of the reasons causing coronary thombrosis.
+
+
+  ![image](https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/1b89b757-893b-4ca3-a731-1f669c3646d6)
 
 
 
