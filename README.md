@@ -115,15 +115,64 @@ It was also observed that the chest pain type (cp = 0) typical angina (chest pai
 Left: Heart attack occurance by age and max heart rate; Right: Heart attack by chestpain type
 
 
+<img width="446" alt="image" src="https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/adc68091-7265-4dce-a1e0-ace17da5d3de">
+
+
+Below is the heat map, which shows the correlation between the parameters present in the dataset. We can see that there isn’t much correlation for each pair.
+
+<img width="454" alt="image" src="https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/5fc7e920-d70f-4179-b1f6-8fc5b43a8ae8">
+
+Modelling & Algorithms:
+
+KNN
+
+The KNN model is being implemented to aid with the analysis of the dataset using python. As KNN is the supervised model, the team has chosen output column as target, which is Y and variables to be explanatory as X. The data was then split into training data and test data. 6 Neighbors seems to be the best performing one.
+
+<img width="215" alt="image" src="https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/90a7688b-784d-4905-b2be-af86764eabd6">
+
+
+Naive Bayes 
+
+The team has used a classifier algorithm to predict and a confusion matrix to measure the performance of this algorithm for the obtained predicted values and actual values. Here is the confusion matrix:
+ 
+Confusion Matrix Naive Bayes
+![image](https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/33788f52-7cbe-4a20-bb66-f440da0f12a8)
+
+
+Random Forest 
+
+Using this model, it was measured that the accuracy was used to identify the most important feature in the chosen dataset using feature importance plot.
+ 
+Feature Importance Plot Random Forest
+
+![image](https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/c98ba384-d79d-4bf7-b0a5-23989137b8ad)
+
+
+Through this, it was observed that the parameter “thalachh” was an important variable based on which the output is dependent on, when using Random Forest Model.
+
+
+Logistic Regression:
+
+Logistic Regression was another classification model. Where the team was able to acheive an accuracy of 83.48% by using the Grid Search based Logistic Regression model. Below is the confusion matrix for the testing set 
+
+
+Confusion Matrix Logistic Regression
+![image](https://github.com/indupsharma/Heart-Disease-Prediction/assets/133023339/635c483c-af86-47f4-a054-4681e04d2330)
 
 
 
+Results:
+
+Below is the review of the results of the top 3 Machine learning model:
+
+Model	Accuracy	F1 Score	Precision 	Recall
+Logistic 	83.5%	85.73%	81.83%	90.03%
+Random Forest	80%	81%	82%	80%
+Naive Bayes	77.05%	79.41%	87.10%	72.97%
+Table1- Model Performance
 
 
-
-
-
-
+It was observed that in terms of accuracy the best performing model is 
 
 
 
