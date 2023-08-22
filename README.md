@@ -172,7 +172,7 @@ Naive Bayes	77.05%	79.41%	87.10%	72.97%
 Table1- Model Performance
 
 
-It was observed that in terms of accuracy the best performing model is 
+It was observed that in terms of accuracy the best performing model is Logistic Regression Model with an accuracy of 83.5% followed by Random Forest 80%. In this case the team wanted to ensure that the model is able to classify more instances of likelyhood of heart disease, hence the recall value was also considered as one of the key parameters to evaluate the model. Where again Logistic Regression has performed better than the other models with recall value slightly over 90%.
 
 
 
